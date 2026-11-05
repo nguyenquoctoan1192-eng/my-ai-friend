@@ -15,7 +15,7 @@ st.markdown("""
 
 # --- CẤU HÌNH API VÀ MODEL GEMINI 3.8 FLASH ---
 # ⚠️ DÁN CHIẾC CHÌA KHÓA API KEY CỦA MÀY VÀO ĐÂY NHÉ:
-GOOGLE_API_KEY ="AQ.Ab8RN6LXYkuObSqVAL55Sb9rlJiMEImj-FOEQXNhiKR-g-zenA"
+GOOGLE_API_KEY ="AQ.Ab8RN6KBBM7szzUyka349K4BhRKE4_wfFNZDhmKXigJkBQfZNw"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Hệ thống System Instructions bê nguyên bản prompt "Bạn thân vỉa hè" của mày sang
